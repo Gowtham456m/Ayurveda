@@ -184,7 +184,7 @@ const FoodDatabase: React.FC = () => {
       },
       properties: ['Nourishing', 'Strengthening', 'Aphrodisiac'],
       season: ['Summer'],
-      image: 'https://images.pexels.com/photos/2363347/pexels-photo-2363347.jpeg',
+      image: 'src/components/mango.jpg',
       description: 'King of fruits, highly nourishing but should be consumed in moderation by Pitta types.'
     }
   ];
